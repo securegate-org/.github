@@ -8,7 +8,9 @@ Backend: [![Linux](https://github.com/securegate-org/Backend/actions/workflows/l
 [![Windows](https://github.com/securegate-org/Backend/actions/workflows/windows.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/windows.yml)
 [![MacOS](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml)
 
-Frontend: [![Build](https://github.com/securegate-org/Frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/node.js.yml)
+Frontend: [![Linux](https://github.com/securegate-org/Frontend/actions/workflows/linux.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/linux.yml)
+[![Windows](https://github.com/securegate-org/Frontend/actions/workflows/windows.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/windows.yml)
+[![MacOS](https://github.com/securegate-org/Frontend/actions/workflows/macOS.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/macOS.yml)
 
 ## Community
 [Discord💬](https://securegate.gg/official)
