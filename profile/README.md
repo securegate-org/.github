@@ -4,7 +4,9 @@
 디스코드 서버를 더욱 안전하게.
 
 ## Official Build Status
-Backend: [![Build](https://github.com/securegate-org/Backend/actions/workflows/node.js.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/node.js.yml)
+Backend: [![Linux](https://github.com/securegate-org/Backend/actions/workflows/linux.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/linux.yml)
+[![Windows](https://github.com/securegate-org/Backend/actions/workflows/windows.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/windows.yml)
+[![MacOS](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml)
 
 Frontend: [![Build](https://github.com/securegate-org/Frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/node.js.yml)
 
