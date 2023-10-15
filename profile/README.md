@@ -3,15 +3,6 @@
 
 디스코드 서버를 더욱 안전하게.
 
-## Official Build Status
-Backend: [![Linux](https://github.com/securegate-org/Backend/actions/workflows/linux.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/linux.yml)
-[![Windows](https://github.com/securegate-org/Backend/actions/workflows/windows.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/windows.yml)
-[![MacOS](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml/badge.svg)](https://github.com/securegate-org/Backend/actions/workflows/macOS.yml)
-
-Frontend: [![Linux](https://github.com/securegate-org/Frontend/actions/workflows/linux.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/linux.yml)
-[![Windows](https://github.com/securegate-org/Frontend/actions/workflows/windows.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/windows.yml)
-[![MacOS](https://github.com/securegate-org/Frontend/actions/workflows/macOS.yml/badge.svg)](https://github.com/securegate-org/Frontend/actions/workflows/macOS.yml)
-
 ## Community
 [Discord💬](https://securegate.gg/official)
 
