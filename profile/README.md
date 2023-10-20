@@ -7,4 +7,4 @@ Get inspired, imagine, then write code.
 [Discord💬](https://securegate.gg/official)
 
 ## Works
-[SecureGate](https://github.com/securegate-org/SecureGate-Lite)
+[SecureGate](https://github.com/vientofactory/SecureGate-Lite)
