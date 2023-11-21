@@ -2,7 +2,7 @@
 
 ![vientofactory_cover](https://github.com/vientofactory/.github/assets/107330816/59b33a67-1336-4e0c-a02c-900a319af40b)
 
-![Counter](https://counter.securegate.gg/get/@:name?theme=moebooru)
+<img src="https://count.getloli.com/get/@vientofactory?theme=gelbooru"/>
 
 ## Community
 [Discord💬](https://securegate.gg/official)
