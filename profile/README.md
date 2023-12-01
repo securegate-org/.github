@@ -1,6 +1,6 @@
 # VientoFactory
 
-![vientofactory_cover](https://github.com/vientofactory/.github/assets/107330816/59b33a67-1336-4e0c-a02c-900a319af40b)
+![vientofactory-cover](https://github.com/vientofactory/.github/assets/107330816/599f75af-5c82-42d6-b89a-44af38ded629)
 
 <img src="https://count.getloli.com/get/@vientofactory?theme=gelbooru"/>
 
