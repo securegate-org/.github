@@ -8,6 +8,8 @@
 [Discord💬](https://securegate.gg/official)
 
 ## Works
-[SecureGate](https://github.com/vientofactory/SecureGate-Lite) - Discord guild protect solution
+SecureGate - 디스코드 보안 초대 링크 솔루션
 
-VientoEngine - Web-based virtualization management project
+OpenTwipChat - 트위치(트윕) 실시간 채팅 오픈소스 구현체
+
+VientoEngine - 웹 기반 가상화 관리 플랫폼
